@@ -1,0 +1,6 @@
+| Bài                                                                   | Notes                                                                                                                         |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)  | dùng cột đầu vs hàng đầu để đánh dấu, thêm 1 ô nữa ở góc cho đỡ trùng                                                         |
+| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)  |                                                                                                                               |
+| [Next Permutation](https://leetcode.com/problems/next-permutation/)   | tìm vị trí đầu tiên từ đít mà nó không giảm dần -> tìm được phần không cần đổi -> giữ nguyên phần đấy rồi hoán vị chỗ còn lại |
+| [Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/) | tìm dãy con tổng lớn nhất kết thúc tại i                                                                                      |
